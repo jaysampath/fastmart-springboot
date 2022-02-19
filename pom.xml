@@ -10,10 +10,10 @@
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.services</groupId>
-	<artifactId>eCommerceRestful-using-mongoDB</artifactId>
+	<artifactId>FastmartSpringBoot</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>eCommerceRestfulUsingMongoDB</name>
-	<description>project for Spring Boot microservices for ecommerce application using mongoDB</description>
+	<name>FastmartSpringboot</name>
+	<description>Web services for Fastmart using mongoDB</description>
 	<!-- <properties>
 		<java.version>11</java.version>
 	</properties> -->
