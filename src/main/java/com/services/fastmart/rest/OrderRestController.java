@@ -16,7 +16,7 @@ import com.services.fastmart.service.EcommerceService;
 
 @RestController
 @RequestMapping("/order")
-//@CrossOrigin
+@CrossOrigin(origins="https://fastmart-react.herokuapp.com")
 public class OrderRestController {
 	
 	@Autowired

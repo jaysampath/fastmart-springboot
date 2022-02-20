@@ -21,7 +21,7 @@ import com.services.fastmart.service.OtpService;
 
 @RestController
 //@CrossOrigin
-@RequestMapping("/otp")
+@CrossOrigin(origins="https://fastmart-react.herokuapp.com")
 public class OtpRestController {
 
 	@Autowired

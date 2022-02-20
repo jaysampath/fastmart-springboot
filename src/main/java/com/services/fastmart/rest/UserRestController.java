@@ -19,7 +19,7 @@ import com.services.fastmart.service.EcommerceService;
 
 @RestController
 //@CrossOrigin
-@RequestMapping("/user")
+@CrossOrigin(origins="https://fastmart-react.herokuapp.com")
 public class UserRestController {
 
 	@Autowired
