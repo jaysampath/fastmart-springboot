@@ -20,7 +20,7 @@ import com.services.fastmart.service.EcommerceService;
 
 @RestController
 @RequestMapping("/item")
-@CrossOrigin
+//@CrossOrigin
 public class ItemRestController {
 	
 	@Autowired

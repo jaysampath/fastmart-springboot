@@ -17,7 +17,7 @@ import com.services.fastmart.service.EcommerceService;
 
 @RestController
 @RequestMapping("/cart")
-@CrossOrigin
+//@CrossOrigin
 public class CartRestController {
 	
 	@Autowired

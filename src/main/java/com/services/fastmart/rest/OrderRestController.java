@@ -16,7 +16,7 @@ import com.services.fastmart.service.EcommerceService;
 
 @RestController
 @RequestMapping("/order")
-@CrossOrigin
+//@CrossOrigin
 public class OrderRestController {
 	
 	@Autowired

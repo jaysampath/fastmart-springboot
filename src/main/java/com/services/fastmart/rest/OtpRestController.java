@@ -20,7 +20,7 @@ import com.services.fastmart.service.EmailService;
 import com.services.fastmart.service.OtpService;
 
 @RestController
-@CrossOrigin
+//@CrossOrigin
 @RequestMapping("/otp")
 public class OtpRestController {
 

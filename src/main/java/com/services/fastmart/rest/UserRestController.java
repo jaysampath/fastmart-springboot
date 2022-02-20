@@ -18,7 +18,7 @@ import com.services.fastmart.helpers.ResponseJson;
 import com.services.fastmart.service.EcommerceService;
 
 @RestController
-@CrossOrigin
+//@CrossOrigin
 @RequestMapping("/user")
 public class UserRestController {
 
